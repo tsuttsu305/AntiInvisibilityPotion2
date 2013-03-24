@@ -6,7 +6,11 @@ import jp.mydns.tundere.AntiInvPotion.Listener.PotionListener;
 
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
-
+/**
+ * 
+ * @author tsuttsu305
+ *
+ */
 public class AntiInvisibilityPotion extends JavaPlugin{
 	
 	private AntiInvisibilityPotion plugin;
