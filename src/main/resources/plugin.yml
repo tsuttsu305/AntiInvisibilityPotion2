@@ -1,6 +1,7 @@
 name: AntiInvisibilityPotion
 main: jp.mydns.tundere.AntiInvPotion.AntiInvisibilityPotion
 version: 2.0.0
+author: tsuttsu305
 permissions:
   invisibility.allow:
     default: no
